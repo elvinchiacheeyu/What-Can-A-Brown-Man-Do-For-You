@@ -79,5 +79,5 @@ Only one of the starting point will find its path to the end point, the other on
 
 Since the Start point is being blocked by obstacle, the output will be as shown below : \
 
-![image](https://github.com/user-attachments/assets/75dabe52-c934-4998-a6a6-49e727ab3c5b)
+![image](https://github.com/user-attachments/assets/13b3fc54-ef7e-46ed-814b-098d251671e9)
 
