@@ -60,3 +60,24 @@ The heuristic is admissible and highly accurate, meaning A* only explores the di
 | Worse Time Complexity | ![image](https://github.com/user-attachments/assets/ad3f909c-6887-4aa4-8cb3-8447cf504cec)  |
 | Best Time Complexity  | ![image](https://github.com/user-attachments/assets/7b38ef97-8f4b-4229-8531-d5489364078c)  |
 
+
+## Two End points
+
+![image](https://github.com/user-attachments/assets/db0c2978-779b-473b-9e0f-610ca3d50faa)
+
+The starting point will move to closer end point and ignore the other end point.
+
+## Two Start points
+
+![image](https://github.com/user-attachments/assets/c6788e8a-d232-4f54-9bea-9e0ceb06f5d9)
+
+Only one of the starting point will find its path to the end point, the other one doesn't move at all.
+
+## When the path is blocked
+
+![image](https://github.com/user-attachments/assets/5f421f9f-641e-4d76-9370-7228a5ce4c84)
+
+Since the Start point is being blocked by obstacle, the output will be as shown below : \
+
+![image](https://github.com/user-attachments/assets/75dabe52-c934-4998-a6a6-49e727ab3c5b)
+
