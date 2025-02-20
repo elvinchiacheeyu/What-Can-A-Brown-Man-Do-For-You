@@ -3,7 +3,8 @@
 | Grid  | Output Display |
 | ------------- | ------------- |
 | 20x20  | ![image](https://github.com/user-attachments/assets/ac639415-9077-4f2d-a972-7f378230510e)  |
-| 30x30  |   |
+| 30x30  | ![image](https://github.com/user-attachments/assets/c6b8f1df-c970-4fd6-a58e-970e300ac903)  |
+| 50x50  | ![image](https://github.com/user-attachments/assets/fa41166d-63fb-415f-9c1b-9dcba260d5e2)  |
 
 ## What is A* algorithm
 
@@ -21,4 +22,4 @@ The reason why using manhattan distance cannot find path to the endpoint is that
 
 ![image](https://github.com/user-attachments/assets/420de3b0-27ca-4ae4-b0e3-b867c1a91a91)
 
-
+This is why initially I was using manhattan distance but after Tash given me a new grid to try with my code , I found out that manhattan distance cannot be used in this grid then I switched to using euclidean distance.
